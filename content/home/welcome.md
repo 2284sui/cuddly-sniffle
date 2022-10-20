@@ -20,4 +20,4 @@ design:
 
 <br>
 
-The **Software Systems (SWYSTEMS) Group** at USI lead by Prof. Patrick Eugster has been a center of excellence for various aspects of distributed systems, networks, security, and programming languages since its founding in 2016.
+The **Software Systems (SWYSTEMS) Group** at USI led by Prof. Patrick Eugster has been a center of excellence for various aspects of distributed systems, networks, security, and programming languages since its founding in 2016.
