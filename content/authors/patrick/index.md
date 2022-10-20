@@ -11,13 +11,7 @@ role:
   Full Professor USI
 
 
-  Adjunct Professor TU Darmstadt
-
-
-  Adjunct Professor Purdue
-
-
-  Visiting Professor MIT
+    Adjunct Professor Purdue
 
 
 # Organizations/Affiliations
