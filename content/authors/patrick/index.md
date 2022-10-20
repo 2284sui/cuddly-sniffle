@@ -78,6 +78,7 @@ user_groups:
   # - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a full professor at USI where I lead the Software Systems (SWYSTEMS) group. SWYSTEMS is part of USI's Computer Systems Institute, of which I am a founding member. Prior to that I was a regular faculty member at Purdue University (2005 - 2016) and TU Darmstadt (2014 - 2017). I have also been a visiting faculty member at MIT (2012/2013). I had the privilege to serve as program chair of ACM OOPSLA'15, and currently am serving as associate editor for IEEE TSE. Throughout the years I had the pleasure to collaborate with, and receive support from, several corporate partners including Cisco, Facebook, Google, HP, IBM, NetApp, and SAP. I am currently also serving as a vice-dean for the faculty of informatics.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+
+Please visit my home page at https://www.inf.usi.ch/faculty/eugstp/ for more info. 
