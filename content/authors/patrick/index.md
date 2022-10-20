@@ -11,7 +11,7 @@ role:
   Full Professor USI
 
 
-    Adjunct Professor Purdue
+    Adjunct Professor Purdue University
 
 
 # Organizations/Affiliations
