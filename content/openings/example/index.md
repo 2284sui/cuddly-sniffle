@@ -1,8 +1,7 @@
 ---
-title: SPLASH/OOPSLA 2023
+title: Master thesis spring 2023
 
-event: ACM OOPSLA 2023 Conference
-event_url: https://2023.splashcon.org/track/splash-2023-oopsla
+event: 'Subject: making this website pretty'
 
 location: Lisbon, Portugal
 address:
@@ -12,7 +11,7 @@ address:
   postcode: 
   country: Portual
 
-summary: ACM OOPSLA 2023 Conference
+summary: 'Subject: making this website pretty'
 abstract: 
 
 # Talk start and end times.
@@ -44,6 +43,11 @@ url_video: ''
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
+# Slides can be added in a few ways:
+
+# - **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/# create-slides) feature and link using `slides` parameter in the front matter of the talk file
+# - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
+# - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
 slides:
 
 # Projects (optional).
@@ -52,12 +56,11 @@ slides:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
+
+
+design:
+  show_location: true
 ---
 
-Slides can be added in a few ways:
 
-- **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including page elements such as image galleries, can be added to the body of this page.
+Work non-stop!
