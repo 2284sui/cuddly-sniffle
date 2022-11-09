@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: Work with us
 
 # Listing view
 view: compact

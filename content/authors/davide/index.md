@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Davide Rovelli
-
+weight: 6
 # Is this the primary user of the site?
 # superuser: true
 
@@ -72,9 +72,7 @@ user_groups:
   - Researchers
 
 design:
-  show_interests: false
-  show_role: true
-  show_social: true
+  show_avatar: true
 ---
 
 Davide Rovelli is a PhD student in cloud infrastructure optimisation. His thesis project is mixed academic/industrial: a collaboration between the SWSYSTEMS group at [USI](https://usi.ch) and [SAP](https://sap.com) - cloud innovation research group.

@@ -16,35 +16,47 @@ design:
 content:
   slides:
     - title: 👋 Welcome to the group
-      content: Take a look at what we're working on...
+      content: ...getting sunburnt on our terrace
       align: center
       background:
         position: center
-        color: '#111'
         brightness: 1
-        media: explore-cliff.jpg
+        media: gallery/terrazza02.jpg
         fit: cover
-    - title: Lunch & Learn ☕️
-      content: 'Share your knowledge with the group and explore exciting new topics together!'
+    - title: Our home
+      content: 'East Campus at Università della Svizzera Italiana (USI)'
+      align: left
+      background:
+        position: center
+        brightness: 1
+        fit: cover
+        media: gallery/campus-est-gp-plogger-16-1.jpg
+      link:
+        icon: home
+        icon_pack: fas
+        text: USI
+        url: 'https://www.usi.ch'
+    - title: Internship opportunities
+      content: 'Work with us for your bachelor & master thesis'
+      align: right
+      background:
+        position: center
+        color: '#333'
+        brightness: 0.8
+        fit: cover
+        media: gallery/lab01.jpg
+      link:
+        icon: graduation-cap
+        icon_pack: fas
+        text: Join Us
+        url: ../openings/
+    - title: Alternative "research"
       align: left
       background:
         position: center
         color: '#4373a0'
         brightness: 1
         fit: cover
-        media: contact.jpg
-    - title: World-Class Semiconductor Lab
-      content: 'Just opened last month!'
-      align: right
-      background:
-        position: center
-        color: '#333'
-        brightness: 0.5
-        fit: cover
-        media: welcome.jpg
-      link:
-        icon: graduation-cap
-        icon_pack: fas
-        text: Join Us
-        url: ../contact/
+        media: gallery/pizza02.jpeg
+    
 ---
