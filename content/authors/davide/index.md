@@ -70,6 +70,11 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Grad Students
+
+design:
+  show_interests: false
+  show_role: true
+  show_social: true
 ---
 
 Davide Rovelli is a PhD student in distributed computing systems in the SWSYSTEMS group at Università della Svizzera Italiana (USI), Lugano.
