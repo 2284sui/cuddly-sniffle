@@ -1,22 +1,23 @@
 ---
 # Display name
 title: Patrick Eugster
-# url: 'https://www.inf.usi.ch/faculty/eugstp/'
+#url: 'https://www.inf.usi.ch/faculty/eugstp/'
 
 # Is this the primary user of the site?
 # superuser: true
-
+weight: 1
 # Role/position
 role:
-  Full Professor USI
+  Principal investigator
 
+  #Full Professor USI
 
-    Adjunct Professor Purdue University
+  #Adjunct Professor Purdue University
 
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: USI
     url: 'https://www.inf.usi.ch/faculty/eugstp/'
 
 # Short bio (displayed in user profile at end of posts)
@@ -50,15 +51,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:eugstp@usi.ch'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://scholar.google.co.uk/citations?hl=en&user=yMY9eZIAAAAJ
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -74,8 +70,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Principal Investigators
-  # - Researchers
+  - Researchers
 ---
 
 I'm a full professor at USI where I lead the Software Systems (SWYSTEMS) group. SWYSTEMS is part of USI's Computer Systems Institute, of which I am a founding member. Prior to that I was a regular faculty member at Purdue University (2005 - 2016) and TU Darmstadt (2014 - 2017). I have also been a visiting faculty member at MIT (2012/2013). I had the privilege to serve as program chair of ACM OOPSLA'15, and currently am serving as associate editor for IEEE TSE. Throughout the years I had the pleasure to collaborate with, and receive support from, several corporate partners including Cisco, Facebook, Google, HP, IBM, NetApp, and SAP. I am currently also serving as a vice-dean for the faculty of informatics.

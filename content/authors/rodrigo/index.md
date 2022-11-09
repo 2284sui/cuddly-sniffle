@@ -1,9 +1,9 @@
 ---
 # Display name
 title: Rodrigo Otoni
-
+weight: 4
 # Role/position
-role: Researcher in Formal Verification
+role: PhD student in Formal Verification
 
 # Organizations/Affiliations
 organizations:
@@ -61,14 +61,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  #  - Visitors
-  # - Principal Investigators
-  # - PostDocs
-  # - Researchers
-   - Grad Students
-  # - Administration
-  # - Visitors
-  # - Alumni
+  - Researchers
+
 ---
 
 Rodrigo Otoni is a PhD student at the Università della Svizzera italiana, Lugano, Switzerland, under the supervision of Professors Patrick Eugster and Natasha Sharygina. His interests lie in the use of formal methods for specification and verification of general programs, as well as of smart contracts and blockchain technologies.

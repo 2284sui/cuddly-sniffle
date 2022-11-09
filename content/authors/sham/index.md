@@ -1,12 +1,13 @@
 ---
 # Display name
 title: Shamiek Mangipudi
+weight: 5
 
 # Is this the primary user of the site?
 # superuser: true
 
 # Role/position
-role: Researcher in Cloud Security
+role: PhD student in Cloud Security
 
 # Organizations/Affiliations
 organizations:
@@ -66,7 +67,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Researchers
 ---
 
 Shamiek is a PhD student advised by Prof. Patrick Eugster at the Swystems Lab in Università della Svizzera Italiana (USI). His research is centered around ensuring security of distributed systems through the design and use of a novel security-aware programming language.

@@ -1,26 +1,27 @@
 ---
 # Display name
 title: Anita Buckley
+weight: 4
 
 # Is this the primary user of the site?
 # superuser: true
 
 # Role/position
 role:
-  Researcher
+  PhD student in Quantum networks
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: USI
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include quantum information theory, quantum networks
 
 interests:
-  - Distributed Systems
+  - Quantum computing
   - Networks
-  - Programming Languages
+  - Distributed Systems
   - Security
 
 education:
@@ -42,21 +43,12 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/gcushen
+    link: 'mailto:anita.buckley@usi.ch'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  - icon: cv
+    icon_pack: ai
+    link: files/AnitaBuckley_CV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -67,9 +59,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Researchers
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Anita joined SWYSTEMS research group in February 2022, after completing MSc in Informatics at USI. In her previous life Anita was an assistant professor in mathematics at the University of Ljubljana and holds a PhD in algebraic geometry from the University of Warwick.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Anita is interested in quantum information theory. Currently she is working on quantum networks; her research is ranging from developing language and logic for dealing with and reasoning about quantum networks, to testing quantum applications on quantum network simulators. Anita’s overriding ambition is to make a significant contribution towards the development of Quantum Internet. 

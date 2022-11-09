@@ -7,7 +7,7 @@ title: Davide Rovelli
 
 # Role/position
 role:
-  Researcher in Distributed Systems
+  PhD student in cloud optimization
 
 # Organizations/Affiliations
 organizations:
@@ -69,7 +69,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Grad Students
+  - Researchers
 
 design:
   show_interests: false
@@ -77,4 +77,6 @@ design:
   show_social: true
 ---
 
-Davide Rovelli is a PhD student in distributed computing systems in the SWSYSTEMS group at Università della Svizzera Italiana (USI), Lugano.
+Davide Rovelli is a PhD student in cloud infrastructure optimisation. His thesis project is mixed academic/industrial: a collaboration between the SWSYSTEMS group at [USI](https://usi.ch) and [SAP](https://sap.com) - cloud innovation research group.
+
+His work focuses on practical implementation of hybrid synchronous/asynchronous distributed systems. His interest are distributed programming, low level optimisation, datacenter technology and efficient cloud hardware and software systems.
