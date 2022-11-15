@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Rodrigo Otoni
-weight: 4
+weight: 3
 # Role/position
 role: PhD student in Formal Verification
 

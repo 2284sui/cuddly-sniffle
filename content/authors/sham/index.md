@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Shamiek Mangipudi
-weight: 5
+weight: 4
 
 # Is this the primary user of the site?
 # superuser: true

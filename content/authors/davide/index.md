@@ -70,9 +70,11 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
   - Researchers
+  #- Alumni
 
 design:
   show_avatar: true
+  show_education: true
 ---
 
 Davide Rovelli is a PhD student in cloud infrastructure optimisation. His thesis project is mixed academic/industrial: a collaboration between the SWSYSTEMS group at [USI](https://usi.ch) and [SAP](https://sap.com) - cloud innovation research group.
