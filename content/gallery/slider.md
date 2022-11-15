@@ -50,7 +50,7 @@ content:
         icon_pack: fas
         text: Join Us
         url: ../openings/
-    - title: Alternative "research"
+    - title: Alternative research
       align: left
       background:
         position: center

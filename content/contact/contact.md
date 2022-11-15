@@ -30,9 +30,6 @@ content:
     latitude: '46.011912'
     longitude: '8.961425'
   directions: Enter sector D and take the stairs to Office D2.07 on Floor 2
-  office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
   # contact_links:
   #  - icon: comments
   #    icon_pack: fas

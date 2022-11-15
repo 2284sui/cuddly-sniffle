@@ -10,15 +10,12 @@ subtitle: hottest at the top
 content:
   count: 5
   filters:
-    author: ''
-    category: ''
-    exclude_featured: false
-    publication_type: ''
-    tag: ''
+    folders:
+      - news
   offset: 0
   order: desc
   page_type: news
 design:
-  view: 3
+  view: card
   columns: '1'
 ---
